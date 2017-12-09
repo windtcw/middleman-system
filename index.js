@@ -100,4 +100,4 @@ client.on('message', async (message) => {
     }
 });
 
-client.login("Snip");
+client.login("Snip"); // Created by Delevingne      
